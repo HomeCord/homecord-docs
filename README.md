@@ -15,7 +15,7 @@ This index page will serve as a table of contents so you can easily find any inf
 
 | Page | Link |
 |------|------|
-| What is HomeCord? | - |
+| What is HomeCord? | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/what_is_homecord.md) |
 | Getting Started (Server Admins/Mods Edition) | - |
 | Getting Started (Server Members Edition) | - |
 | Info on HomeCord's Home Channels | - |
