@@ -22,7 +22,7 @@ This index page will serve as a table of contents so you can easily find any inf
 | Can I prevent my own Messages from being featured by HomeCord? | - |
 | How are things highlighted to Home? | - |
 | How does HomeCord's Block List System work? | - |
-| Command List | - |
+| Command & Features List | - |
 | Beta Changelog | - |
 | Privacy Policy | - |
 | Terms of Service | - |
