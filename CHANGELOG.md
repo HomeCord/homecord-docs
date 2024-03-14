@@ -6,6 +6,8 @@
 ---
 
 ## Beta Build 1
+> *Released 11th March 2024*
+
 - Initial Beta Release
 - Added the following Commands:
   - `/setup`, `/settings`, `/preferences`, `/block`, `/blocklist`, `/unblock`, `/feature`, `/unfeature`, `Feature Message`, `Unfeature Message`
