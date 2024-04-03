@@ -5,6 +5,18 @@
 
 ---
 
+## Beta Build 3
+> *Released 3rd April 2024*
+
+- Highlighted & Featured Events now include a direct Event Link to said Event
+- "`Unfeature Message`" Context Command now supports being used on the original version of the Featured/Highlighted Message *(in addition to its cross-posted version in Home Channel)*
+
+- Patched Bot spamming errors at TwilightZebby when failing to check a Message Author's Roles against the Server's Home Block List
+  - *In other words, now handles uncached members better*
+- Patched error that prevented more than 1 Thread per Server from being featured/highlighted at a time
+
+---
+
 ## Beta Build 2
 > *Released 27th March 2024*
 
