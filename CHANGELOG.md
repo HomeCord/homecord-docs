@@ -5,6 +5,16 @@
 
 ---
 
+## Beta Build 4
+> *Released 10th April 2024*
+
+- Refactored the database values for setting the Activity Threshold & if things can be highlighted or not.
+- Each thing (Message, Events, Threads, etc) now has its own Activity Threshold
+  - Can still fully disable highlighting or featuring of said thing by setting their Threshold to "disabled".
+- Updated both the `/setup` and `/settings` Commands to reflect the above changes to Activity Thresholds.
+
+---
+
 ## Beta Build 3
 > *Released 3rd April 2024*
 
