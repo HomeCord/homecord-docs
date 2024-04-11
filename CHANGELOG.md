@@ -5,6 +5,13 @@
 
 ---
 
+## Beta Build 5
+> *Released 11th April 2024*
+
+- Finally figured out how to block Polls from being featured onto Home via the "`Feature Message`" Context Command
+
+---
+
 ## Beta Build 4
 > *Released 10th April 2024*
 
@@ -48,7 +55,7 @@
 ## Beta Build 1
 > *Released 11th March 2024*
 
-- Initial Beta Release
+- Initial Private Beta Release
 - Added the following Commands:
   - `/setup`, `/settings`, `/preferences`, `/block`, `/blocklist`, `/unblock`, `/feature`, `/unfeature`, `Feature Message`, `Unfeature Message`
 - Added ability to manually feature Messages, Events, Threads/Posts, and Channels
