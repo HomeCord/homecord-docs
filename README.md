@@ -17,7 +17,6 @@ This index page will serve as a table of contents so you can easily find any inf
 |------|------|
 | What is HomeCord? | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/what_is_homecord.md) |
 | Getting Started (Server Admins/Mods Edition) | - |
-| Getting Started (Server Members Edition) | - |
 | Info on HomeCord's Home Channels | - |
 | Can I prevent my own Messages from being featured by HomeCord? | - |
 | How are things highlighted to Home? | - |

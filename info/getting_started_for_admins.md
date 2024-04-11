@@ -1,7 +1,7 @@
 *[Return to index](https://github.com/HomeCord/homecord-docs/blob/main/README.md)*
 
 > [!NOTE]
-> *This page is intended for Owners, Admins, and Moderators ("Mods") of Servers that are using HomeCord. If you are a regular Server Member, then you can find a guide for [you here]().*
+> *This page is intended for Owners, Admins, and Moderators ("Mods") of Servers that are using HomeCord.*
 
 ---
 
@@ -58,12 +58,13 @@ You will be initially given the default settings for your Home Channel. Below is
 | Setting | Description |
 |---------|-------------|
 | Channel to Use | Set if you would like HomeCord to create the Home Channel for you, or if you want to use an existing Text Channel as your Home Channel. |
-| Activity Threshold | Set what Activity Threshold you want for HomeCord to automatically highlight things to your Home Channel. More info about this can be [found here]() |
-| Highlight Messages | Toggle if you want to allow Messages to be featured/highlighted to your Home Channel. |
-| Highlight Scheduled Events | Toggle if you want to allow [Scheduled Events](https://support.discord.com/hc/en-us/articles/4409494125719) to be featured/highlighted to your Home Channel. |
-| Highlight Threads/Posts | Toggle if you want to allow [Public Threads](https://support.discord.com/hc/en-us/articles/4403205878423), [Forum Posts](https://support.discord.com/hc/en-us/articles/6208479917079-Forum-Channels-FAQ), and [Media Posts](https://creator-support.discord.com/hc/en-us/articles/14346342766743), to be featured/highlighted to your Home Channel. |
+| Message Activity | Set the minimum activity threshold for highlighting Messages to your Home Channel. |
+| Scheduled Events Activity | Set the minimum activity threshold for highlighting [Scheduled Events](https://support.discord.com/hc/en-us/articles/4409494125719). |
+| Threads/Posts Activity | Set the minimum activity threshold for highlighting [Public Threads](https://support.discord.com/hc/en-us/articles/4403205878423), [Forum Posts](https://support.discord.com/hc/en-us/articles/6208479917079-Forum-Channels-FAQ), and [Media Posts](https://creator-support.discord.com/hc/en-us/articles/14346342766743). |
 | Save & Proceed | Save the above settings, and move on to the next step |
 | Cancel | Cancel setting up your Home Channel |
+
+You can also outright disable HomeCord from automatically highlighting Messages/Events/Threads in their respective settings too.
 
 Once you are happy with your initial settings, select the "Save & Proceed" option to move on to the next step.
 
