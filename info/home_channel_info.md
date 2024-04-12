@@ -101,3 +101,8 @@ When featured or highlighted, the following parts of a Message are reposted to t
 > As such, if a Message is too long, it will not be featureable by HomeCord to Home Channels.
 > 
 > However, those long Messages can still be automatically highlighted, though they will have some content cut off with a trailing "..." - this is to experiment with both ways of handling long Messages during HomeCord's Beta.
+
+> [!NOTE]
+> The Unicode/Default ⭐ Star Emoji will be ignored by HomeCord in its automatic Message highlighting system.
+> 
+> This is to prevent being flooded by, and prevent conflicts with, existing Starboard Bots in Servers. A setting for HomeCord is planned to be added in the future to allow ⭐ Star Emoji Reactions to count towards highlighting Messages.
