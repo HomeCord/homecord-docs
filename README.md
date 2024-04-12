@@ -20,7 +20,7 @@ This index page will serve as a table of contents so you can easily find any inf
 | Info on HomeCord's Home Channels | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/home_channel_info.md) |
 | Can I prevent my own Messages from being featured by HomeCord? | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/prevent_own_messages_from_being_featured.md) |
 | How does HomeCord's Block List System work? | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/blocklist.md) |
-| Command & Features List | - |
+| Command & Features List | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/command_list.md) |
 | Beta Changelog | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/CHANGELOG.md) |
-| Privacy Policy | - |
-| Terms of Service | - |
+| Privacy Policy | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/PRIVACY_POLICY.md) |
+| Terms of Service | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/TERMS_OF_SERVICE.md) |
