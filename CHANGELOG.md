@@ -5,6 +5,12 @@
 
 ---
 
+> *12th April 2024*
+
+- HomeCord is now in a state ready for its public beta phase! 👀
+
+---
+
 ## Beta Build 5
 > *Released 11th April 2024*
 
