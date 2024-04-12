@@ -25,4 +25,5 @@ All parts of HomeCord's "Home" Channel are toggleable & customisable - and your 
 
 ## Example of HomeCord's Home Channels
 
-![](https://zebby.is-from.space/r/homecord-example.png)
+![](https://i.imgur.com/UqGhwIf.png)
+![](https://i.imgur.com/QyCWYVT.png)
