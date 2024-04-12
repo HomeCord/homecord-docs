@@ -19,7 +19,6 @@ This index page will serve as a table of contents so you can easily find any inf
 | Getting Started (Server Admins/Mods Edition) | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/getting_started_for_admins.md) |
 | Info on HomeCord's Home Channels | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/info/home_channel_info.md) |
 | Can I prevent my own Messages from being featured by HomeCord? | - |
-| How are things highlighted to Home? | - |
 | How does HomeCord's Block List System work? | - |
 | Command & Features List | - |
 | Beta Changelog | [Click to view](https://github.com/HomeCord/homecord-docs/blob/main/CHANGELOG.md) |
