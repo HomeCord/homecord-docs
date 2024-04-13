@@ -9,7 +9,7 @@ Welcome to documentation for HomeCord's beta versions!
 
 This index page will serve as a table of contents so you can easily find any information you're looking for while HomeCord is in its beta phase.
 
-If you want to add HomeCord to your own Server, [use its Bot Invite Link here!](https://discord.com/api/oauth2/authorize?client_id=1156152328290840606&permissions=379904&scope=applications.commands%20bot)
+If you want to add HomeCord to your own Server, [use its Bot Invite Link here!](https://discord.com/oauth2/authorize?client_id=1156152328290840606&permissions=537250896&scope=applications.commands+bot)
 
 *If the Invite Link shows an error about the Bot not being publicly invitible, that's because HomeCord is still in a Beta phase - and as such, it's invite may be randomly disabled at times to ensure a smooth Beta phase. It will be made fully public once its full release is ready.*
 
