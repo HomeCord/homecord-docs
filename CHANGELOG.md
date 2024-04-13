@@ -5,6 +5,17 @@
 
 ---
 
+## Beta Build 6
+> *Released 13th April 2024*
+
+- Lowered cooldown for `/setup`, from 600 seconds down to 60 seconds.
+- `/setup` now checks the HomeCord's Permissions if you try to select the "Create for Me" option in the initial Setup Page.
+  - *Thanks to the peeps in [Discord Admins](https://dis.gd/dac-faq) Server for suggesting the above two!*
+- The length of time HomeCord will keep automatically highlighted items on Home Channels is now dependant on the respective Activity Thresholds
+  - In other words: lower thresholds will mean highlighted items stay on Home longer. Higher thresholds mean shorter durations for highlighted items.
+
+---
+
 > *12th April 2024*
 
 - HomeCord is now in a state ready for its public beta phase! 👀
