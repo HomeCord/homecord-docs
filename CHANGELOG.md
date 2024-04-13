@@ -10,7 +10,8 @@
 
 - Lowered cooldown for `/setup`, from 600 seconds down to 60 seconds.
 - `/setup` now checks the HomeCord's Permissions if you try to select the "Create for Me" option in the initial Setup Page.
-  - *Thanks to the peeps in [Discord Admins](https://dis.gd/dac-faq) Server for suggesting the above two!*
+- Updated HomeCord's Invite Link to ask for `MANAGE_CHANNELS` and `MANAGE_WEBHOOKS` Permissions by default. These are just for easing the setup process.
+  - *Thanks to the peeps in [Discord Admins](https://dis.gd/dac-faq) Server for suggesting the above three!*
 - The length of time HomeCord will keep automatically highlighted items on Home Channels is now dependant on the respective Activity Thresholds
   - In other words: lower thresholds will mean highlighted items stay on Home longer. Higher thresholds mean shorter durations for highlighted items.
 
