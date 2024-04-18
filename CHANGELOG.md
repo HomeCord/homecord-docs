@@ -5,6 +5,18 @@
 
 ---
 
+## Beta Build 7
+> *Released 18th April 2024*
+
+- When setting up Home Channels **and** using the "Create Channel for me" option - HomeCord now revokes the new `SEND_POLLS` ("Create Polls") Permission for atEveryone by default
+- Tweaked the default Webhook Icon used in the Home Channel that gets set when setting up Home Channels (to match the new HomeCord icon, in other words: zoomed it out a little)
+
+- Highlighted & Featured Scheduled Events no longer include a direct Event Link; due to a bug in Discord itself preventing Event Links from having their embed suppressed
+
+- Patched issue that caused HomeCord to, when highlighting a Message due to direct Replies, include the attachments of the *replying* Message instead of the original *replied to* Message. Whoops!
+
+---
+
 ## Beta Build 6
 > *Released 13th April 2024*
 
