@@ -5,6 +5,23 @@
 
 ---
 
+## Beta Build 8
+> *Released 26th April 2024*
+
+- Scheduled Events can now be automatically highlighted to your Home Channel by HomeCord! (If you've enabled that of course)
+
+- Added `/subscribe` Command for subscribing to HomeCord's Announcement Channel feed when you're not in HomeCord's Support Server
+  - *`/subscribe`, by default, can only be used by those with the "Manage Webhooks" Permission*
+- Added `/invite` Command for quickly grabbing HomeCord's Invite Link
+- Added `/refresh` Command for force-refreshing a Server's Home Channel
+  - ***This Command intentionally has a VERY LONG COOLDOWN of 7 days!***
+  - *`/refresh`, by default, can only be used by those with the "Manage Server" Permission*
+
+- The `Very Low` Activity Threshold for Threads was lowered a tiny bit
+- The `Low`, `Medium`, and `High` Activity Thresholds for Messages, Events, and Threads was lowered too
+
+---
+
 ## Beta Build 7
 > *Released 18th April 2024*
 

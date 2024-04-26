@@ -43,11 +43,6 @@ Moving down the Home Channel, the first highlightable aspect of the Home Channel
 
 If automatic highlighting is enabled for Events, HomeCord can showcase upcoming Scheduled Events based off the number of Server Members that have registered their interest for that Event via clicking that Event's "Interested" button in Discord.
 
-> [!WARNING]
-> Automatic highlighting of Scheduled Events has yet to be implemented to HomeCord. This notice will be removed once it has been implemented!
-> 
-> You can still manually feature Scheduled Events via use of HomeCord's `/feature event` Command, as described below too.
-
 Server Admins (by default, those with at minimum the "`Manage Channels`" Permission) can also use HomeCord's `/feature event` Command to manually showcase an upcoming Scheduled Event to the Home Channel. This Command also lets Server Admins choose how long to feature that Event too - from 12 hours up to 1 week (7 days).
 
 Scheduled Events, regardless of being highlighted or featured, can be manually removed from the Home Channel via use of the `/unfeature event` Command.
