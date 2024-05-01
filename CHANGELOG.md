@@ -5,6 +5,14 @@
 
 ---
 
+## Beta Build 9
+> *Released 1st May 2024*
+
+- Added a new setting to `/settings` - which can be used to enable or disable HomeCord from counting the default ⭐ Star Emoji Reactions for automatically highlighting Messages
+  - *This is disabled by default as to not conflict with, nor be flooded by, existing Starboard Server Apps/Bots.*
+
+---
+
 ## Beta Build 8
 > *Released 26th April 2024*
 

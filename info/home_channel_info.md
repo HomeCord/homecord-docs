@@ -100,4 +100,4 @@ When featured or highlighted, the following parts of a Message are reposted to t
 > [!NOTE]
 > The Unicode/Default ⭐ Star Emoji will be ignored by HomeCord in its automatic Message highlighting system.
 > 
-> This is to prevent being flooded by, and prevent conflicts with, existing Starboard Bots in Servers. A setting for HomeCord is planned to be added in the future to allow ⭐ Star Emoji Reactions to count towards highlighting Messages.
+> This is to prevent being flooded by, and prevent conflicts with, existing Starboard Bots in Servers. If you want to allow Star Reactions to count towards Message Highlighting, then you can toggle its setting in the `/settings` Command.
