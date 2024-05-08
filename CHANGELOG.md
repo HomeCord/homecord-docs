@@ -3,6 +3,14 @@
 > [!NOTE]
 > *This changelog is ordered by newest to oldest.*
 
+
+---
+
+## Beta Build 10
+> *Released 8th May 2024*
+
+- Added full support for featuring/highlighting Messages that contains Discord's Polls feature.
+
 ---
 
 ## Beta Build 9
