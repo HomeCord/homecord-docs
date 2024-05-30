@@ -28,4 +28,4 @@ Below is a list of Commands HomeCord has, what type of Command they are, and the
 If you want to override the default Permission requirements for HomeCord's Commands, you can do so by going to **Server Settings > Integrations > HomeCord** in your Server, and editing the Command Permission requirements there.
 
 > [!NOTE]
-> Sadly, you can only edit Bot Command Permissions on Desktop & Web versions of Discord, not Mobile versions.
+> Sadly, you can only edit Server App Command Permissions on Desktop & Web versions of Discord, not Mobile versions.

@@ -14,10 +14,10 @@ Let's skip all the introduction fluff and just jump right into it, eh? :)
 
 The first thing you'll want to do to setup HomeCord in your Server is to invite it. After all, HomeCord won't even know your Server *exists* unless you add it!
 
-You can invite it to your Server by using [this Bot Invite Link here](https://discord.com/oauth2/authorize?client_id=1156152328290840606&permissions=537250896&scope=applications.commands+bot).
+You can invite it to your Server by using [this Server App Invite Link here](https://discord.com/oauth2/authorize?client_id=1156152328290840606&permissions=537250896&scope=applications.commands+bot).
 
 > [!IMPORTANT]
-> You will need to have either "**Manage Server**" Permission, "**Admin**" Permission, or be the owner of, the Server you want to add HomeCord too. This requirement is enforced by Discord for any and *all* Bots you want to add to Servers.
+> You will need to have either "**Manage Server**" Permission, "**Admin**" Permission, or be the owner of, the Server you want to add HomeCord too. This requirement is enforced by Discord for any and *all* Server Apps you want to add to Servers.
 
 ---
 

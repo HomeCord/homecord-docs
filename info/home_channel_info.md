@@ -9,7 +9,7 @@
 
 # Information on HomeCord's "Home" Channels
 
-"Home" Channels is a single Channel in a Server, setup using this HomeCord Bot, that can highlight, feature, and/or showcase various aspects of a Server.
+"Home" Channels is a single Channel in a Server, setup using this HomeCord Server App, that can highlight, feature, and/or showcase various aspects of a Server.
 
 These aspects can include popular Messages, active Threads & Forum Posts, upcoming Scheduled Events, and important Channels (and in future version, active Voice Channels & live Stages too!).
 
@@ -89,16 +89,14 @@ When featured or highlighted, the following parts of a Message are reposted to t
 > [!NOTE]
 > Please note that HomeCord will NOT highlight or feature non-standard Messages, and not Messages sent by non-Users.
 >
-> In other words: Messages sent by Bots, Webhooks, and Discord's System Messages (such as Server Boost notifications or "This message has been pinned" notifications), are all examples of what Messages are **NOT** featurable or highlightable to Home Channels.
+> In other words: Messages sent by Server/User Apps, Webhooks, and Discord's System Messages (such as Server Boost notifications or "This message has been pinned" notifications), are all examples of what Messages are **NOT** featurable or highlightable to Home Channels.
 
 > [!NOTE]
-> Due to limitations imposed by Discord's public Bot API, Bots & Webhooks cannot send regular Messages with more than 2k (2000) characters in them.
+> Due to limitations imposed by Discord's public API, Server/User Apps & Webhooks cannot send regular Messages with more than 2k (2000) characters in them.
 > 
-> As such, if a Message is too long, it will not be featureable by HomeCord to Home Channels.
-> 
-> However, those long Messages can still be automatically highlighted, though they will have some content cut off with a trailing "..." - this is to experiment with both ways of handling long Messages during HomeCord's Beta.
+> As such, if a Message is too long, it will have some content cut off with a trailing "...".
 
 > [!NOTE]
 > The Unicode/Default ⭐ Star Emoji will be ignored by HomeCord in its automatic Message highlighting system.
 > 
-> This is to prevent being flooded by, and prevent conflicts with, existing Starboard Bots in Servers. If you want to allow Star Reactions to count towards Message Highlighting, then you can toggle its setting in the `/settings` Command.
+> This is to prevent being flooded by, and prevent conflicts with, existing Starboard Server Apps in Servers. If you want to allow Star Reactions to count towards Message Highlighting, then you can toggle its setting in the `/settings` Command.

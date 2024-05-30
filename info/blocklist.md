@@ -10,9 +10,9 @@ This page will cover each part of HomeCord's Block List system, which can be use
 > This is also the default Permission requirement needed to be able to use the `/block`, `/unblock`, and `/blocklist` Commands mentioned on this page.
 
 > [!NOTE]
-> If you have any Bot logging Channels in your Server, and want to help HomeCord, you can revoke the "`View Channel`" Permission from the HomeCord Bot in your Bot logging Channels.
+> If you have any Server App logging Channels in your Server, and want to help HomeCord, you can revoke the "`View Channel`" Permission from the HomeCord Server App in your logging Channels.
 > 
-> This won't stop your Moderators & Admins from manually featuring those Bot logs, but it *does* help massively reduce the amount of Message API events HomeCord receives!
+> This won't stop your Moderators & Admins from manually featuring those logs, but it *does* help massively reduce the amount of Message API events HomeCord receives!
 
 ---
 

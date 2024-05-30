@@ -1,8 +1,8 @@
 *[Return to index](https://github.com/HomeCord/homecord-docs/blob/main/README.md)*
 
-# What is the HomeCord Bot?
+# What is the HomeCord Server App?
 
-HomeCord is a Discord Bot designed to recreate and improve upon the old [Server Home Tab](<https://support.discord.com/hc/en-us/articles/6156116949911>) Discord once experimented with.
+HomeCord is a Discord Server App designed to recreate and improve upon the old [Server Home Tab](<https://support.discord.com/hc/en-us/articles/6156116949911>) Discord once experimented with.
 
 With HomeCord, you can create your own "Home Channel" for your Server - a place for you to see:
 - Permanently Featured Channels

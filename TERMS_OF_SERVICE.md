@@ -3,13 +3,13 @@
 ---
 
 # HomeCord - Terms of Service (ToS)
-Last Updated: 1st May 2024
+Last Updated: 29th May 2024
 
-Effective: 1st May 2024
+Effective: 29th May 2024
 
 ---
 
-This **Terms of Service** ("ToS") applies to the Discord Bot "**HomeCord#9632**".
+This **Terms of Service** ("ToS") applies to the Discord Server App "**HomeCord#9632**".
 
 You may *not* use **HomeCord** to violate any applicable laws or regulations, [Discord's own Terms of Service](https://discord.com/terms), and/or [Discord's own Community Guidelines](https://discord.com/guidelines). Furthermore, you also may *not* use **HomeCord** to harm anyone or anything.
 

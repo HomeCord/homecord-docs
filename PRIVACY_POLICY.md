@@ -1,9 +1,9 @@
 *[Return to index](https://github.com/HomeCord/homecord-docs/blob/main/README.md)*
 
 # HomeCord - Privacy Policy
-Last Updated: 1st May 2024
+Last Updated: 29th May 2024
 
-Effective: 1st May 2024
+Effective: 29th May 2024
 
 ---
 
@@ -20,7 +20,7 @@ The developers of **HomeCord** firmly believes in a "we don't want your data kee
 ## Data Collection & Purposes
 Below will be a list of what **HomeCord** *does* store.
 
-As a reminder: User IDs, Server IDs, Channel IDs, Message IDs, Role IDs, and Custom Emoji IDs are all publicly accessible from Discord's public API and official Clients/Apps.
+As a reminder: User IDs, Server IDs, Channel/Thread IDs, Message IDs, Role IDs, and Custom Emoji IDs are all publicly accessible from Discord's public API and official Clients/Apps.
 
 ### For Home Channel Settings
 - Server ID
@@ -61,7 +61,7 @@ As a reminder: User IDs, Server IDs, Channel IDs, Message IDs, Role IDs, and Cus
 ---
 
 ## Use of Locale Data
-**HomeCord** also makes use of the publicly available locale data (i.e: what language Users and Servers have set) Discord sends to all Bots using Discord's public API for "Interactions" (e.g: Slash Commands, Context Commands, Select Menus, Buttons, Modals). This locale data is only used for knowing which language **HomeCord** should send its responses in, and is __NOT__ stored or tracked in any way.
+**HomeCord** also makes use of the publicly available locale data (i.e: what language Users and Servers have set) Discord sends to all Server/User Apps using Discord's public API for "Interactions" (e.g: Slash Commands, Context Commands, Select Menus, Buttons, Modals). This locale data is only used for knowing which language **HomeCord** should send its responses in, and is __NOT__ stored or tracked in any way.
 
 You can see the public API Documentation regarding what the locale data includes on these official Discord API Documentation Pages:
 - [API Locale Reference](https://discord.com/developers/docs/reference#locales)

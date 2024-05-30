@@ -3,6 +3,16 @@
 > [!NOTE]
 > *This changelog is ordered by newest to oldest.*
 
+---
+
+## Beta Build 11
+> *Released ??? 2024*
+
+- Changed how featured/highlighted Messages link to their source
+  - Instead of using masked links, Link Buttons are used
+- Due to the above change, HomeCord can now make full use of the 2k character limit.
+  - Thus, HomeCord can now include the first 1990 characters of the featured/highlighted message, instead of just 1800 characters (if it has that many characters in the original Message!)
+- Attempting to manually feature Messages with content longer than 1800 characters no longer gives an error. You can now feature long Messages!
 
 ---
 
@@ -62,6 +72,7 @@
 
 ---
 
+## Open Beta Release
 > *12th April 2024*
 
 - HomeCord is now in a state ready for its public beta phase! 👀
@@ -115,7 +126,7 @@
 
 ---
 
-## Beta Build 1
+## Beta Build 1 (Closed Beta Release)
 > *Released 11th March 2024*
 
 - Initial Private Beta Release
