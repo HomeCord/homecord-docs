@@ -6,7 +6,7 @@
 ---
 
 ## Beta Build 11
-> *Released ??? 2024*
+> *Released 30th May 2024*
 
 - Changed how featured/highlighted Messages link to their source
   - Instead of using masked links, Link Buttons are used
