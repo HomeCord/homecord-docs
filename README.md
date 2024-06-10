@@ -1,13 +1,13 @@
 # HomeCord Documentation
 
-> [!NOTE]
-> HomeCord's Documentation being here is a temporary measure so its developer can focus on developing HomeCord v1.0.0 - HomeCord will get some actual documentation once its v1.0.0 version has been developed.
+> [!IMPORTANT]
+> Development on HomeCord has now basically stopped. Read more on why in [the latest Changelog entry](https://github.com/HomeCord/homecord-docs/blob/main/CHANGELOG.md#development-update---homecord-now-in-maintenance-mode).
 
 ---
 
-Welcome to documentation for HomeCord's beta versions!
+Welcome to documentation for HomeCord!
 
-This index page will serve as a table of contents so you can easily find any information you're looking for while HomeCord is in its beta phase.
+This index page will serve as a table of contents so you can easily find any information you're looking for about HomeCord.
 
 If you want to add HomeCord to your own Server, [use its Server App Invite Link here!](https://discord.com/oauth2/authorize?client_id=1156152328290840606&permissions=537250896&scope=applications.commands+bot)
 
