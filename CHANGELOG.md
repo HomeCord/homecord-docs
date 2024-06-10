@@ -5,6 +5,27 @@
 
 ---
 
+## Development Update - HomeCord now in Maintenance Mode
+> *10th June 2024*
+
+On 6th June 2024, Discord announced some new [Developer Policies](https://support-dev.discord.com/hc/en-us/articles/8563934450327-Discord-Developer-Policy), which includes new requirements for ~~Bots~~ Apps looking to monetize and/or have paywalled features.
+These new Policies were collectively met by the Discord ~~Bot~~ App Developer community with massive distain - due to the *extremely* greedy nature of the Policies and how they treat us ~~Bot~~ App Developers like dirt.
+
+As a result, I have decided to fully scrap any and all plans I had for my HomeCord and [HeccBot](https://github.com/HeccBot/HeccBot) Discord Server Apps.
+
+Both of them are now in "Maintenance Mode". Meaning, I will continue doing bug-fix updates for them if need be, and only add new stuff *if I feel like it*.
+I no longer feel the joy I once had with developing Discord Server Apps, due to the fact Discord keeps treating App Developers like dirt with half-baked API features, constant unannounced breaking changes, sliently scrapped announcements (API v6 & v7 never did shut down like they announced years ago), and now the greed of the new Monetization Requirements in the new Developer Policy.
+
+Both HomeCord and HeccBot will still remain online & running, since both me and my friends do still use them frequently (esp. HeccBot).
+
+I would say I'm sorry for stopping development of my Server Apps, but if you want someone to blame: blame Discord's higher-ups, CTO, and CEO.
+
+I'll now be moving into learning either Web-dev or Game-dev. So I'll still be around, just now focusing my passion of programming in non-Discord areas. :)
+
+- TwilightZebby, developer of HomeCord (and HeccBot).
+
+---
+
 ## Beta Build 11
 > *Released 30th May 2024*
 
