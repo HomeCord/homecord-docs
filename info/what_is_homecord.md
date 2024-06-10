@@ -18,9 +18,6 @@ All parts of HomeCord's "Home" Channel are toggleable & customisable - and your 
 > [!NOTE]
 > If automatic highlighting is enabled, HomeCord will only be able to automatically highlight Channels, Thread/Posts, Events, and Messages it has access to in your Server. So if HomeCord doesn't have "View Channel" Permissions for a Channel, it won't automatically highlight it nor any Threads/Messages in that Channel!
 
-> [!IMPORTANT]
-> HomeCord is still in very active development, and thus everything on this page, and documentation, is subject to change while HomeCord heads towards its stable v1.0.0 full release!
-
 ---
 
 ## Example of HomeCord's Home Channels
