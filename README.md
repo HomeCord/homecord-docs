@@ -1,7 +1,7 @@
 # HomeCord Documentation
 
 > [!IMPORTANT]
-> Development on HomeCord has now basically stopped. Read more on why in [the latest Changelog entry](https://github.com/HomeCord/homecord-docs/blob/main/CHANGELOG.md#development-update---homecord-now-in-maintenance-mode).
+> Development on HomeCord has now slowed down & HomeCord is now in Maintenance Mode. Read more on why in [the latest Changelog entry](https://github.com/HomeCord/homecord-docs/blob/main/CHANGELOG.md#development-update---homecord-now-in-maintenance-mode).
 
 ---
 
