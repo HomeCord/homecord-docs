@@ -1,7 +1,7 @@
 # HomeCord Documentation
 
-> [!IMPORTANT]
-> Development on HomeCord has now slowed down & HomeCord is now in Maintenance Mode. Read more on why in [the latest Changelog entry](https://github.com/HomeCord/homecord-docs/blob/main/CHANGELOG.md#development-update---homecord-now-in-maintenance-mode).
+> [!NOTE]
+> HomeCord's Stable v1.0.0 Update is in development (and can be found as a [Pull Request here](https://github.com/HomeCord/homecord/pull/4)) - which will include a new place for this Documentation to live. As such, when it is released, this notice will be replaced with a redirect to the new Documentation! :)
 
 ---
 
