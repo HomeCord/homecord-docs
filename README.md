@@ -11,7 +11,7 @@ This index page will serve as a table of contents so you can easily find any inf
 
 If you want to add HomeCord to your own Server, [use its Server App Invite Link here!](https://discord.com/oauth2/authorize?client_id=1156152328290840606&permissions=537250896&scope=applications.commands+bot)
 
-*If you want to keep up to date on HomeCord's development, feel free to join HomeCord's [Support Server](https://discord.gg/4bFgUyWUMY).*
+*If you want to keep up to date on HomeCord's development, feel free to join HomeCord's [Support Server](https://discord.gg/BdXQjkADgd).*
 
 ---
 

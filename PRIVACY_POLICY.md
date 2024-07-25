@@ -74,7 +74,7 @@ If you decide to stop using **HomeCord**, then **HomeCord** will automatically r
 
 Additionally, deleting from Discord a Channel, Message, Event, or Thread, whose ID has been stored as a featured/highlighted aspect, or as a core part of the "Home Channels", will cause HomeCord to also delete the respective IDs from itself too. You can also manually remove featured/highlighted aspect's IDs via use of the Unfeature Commands.
 
-The Developer of **HomeCord**, TwilightZebby, is contactable for matters regarding **HomeCord** via GitHub, preferrably via opening an Issue Ticket or Discussion on **HomeCord**'s [GitHub Repo](https://github.com/HomeCord/homecord). You can also contact TwilightZebby via **HomeCord**'s [Support Server](https://discord.gg/4bFgUyWUMY) on Discord.
+The Developer of **HomeCord**, TwilightZebby, is contactable for matters regarding **HomeCord** via GitHub, preferrably via opening an Issue Ticket or Discussion on **HomeCord**'s [GitHub Repo](https://github.com/HomeCord/homecord). You can also contact TwilightZebby via **HomeCord**'s [Support Server](https://discord.gg/BdXQjkADgd) on Discord.
 
 Please also see [Discord's own Privacy Policy](https://discord.com/privacy).
 
