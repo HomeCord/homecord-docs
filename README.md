@@ -1,11 +1,11 @@
 # HomeCord Documentation
 
-> [!NOTE]
-> HomeCord's Stable v1.0.0 Update is in development (and can be found as a [Pull Request here](https://github.com/HomeCord/homecord/pull/4)) - which will include a new place for this Documentation to live. As such, when it is released, this notice will be replaced with a redirect to the new Documentation! :)
+> [!IMPORTANT]
+> This documentation has been migrated to [this page here](https://homecord.gitbook.io/docs) - as such, this version on GitHub will no longer be updated.
 
 ---
 
-Welcome to documentation for HomeCord!
+Welcome to documentation for HomeCord! (while it was in beta stages)
 
 This index page will serve as a table of contents so you can easily find any information you're looking for about HomeCord.
 

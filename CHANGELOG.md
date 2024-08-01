@@ -5,6 +5,17 @@
 
 ---
 
+## Documentation Moved (and Development is continuing)
+> *1st August 2024*
+
+The documentation for HomeCord has been moved to a GitBook page, which can be [found here](https://homecord.gitbook.io/docs).
+
+Additionally, development on HomeCord will continue. Reasons for this will be explained in the Stable v1.0.0 changelog when it is released.
+
+Any future changelogs & patch notes will be posted on HomeCord's main GitHub [repository here](https://github.com/HomeCord/homecord/releases).
+
+---
+
 ## Development Update - HomeCord now in Maintenance Mode
 > *10th June 2024*
 
